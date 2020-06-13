@@ -1,0 +1,35 @@
+.teste{
+	font-size: 20px ;
+	font-family: Helvetica;
+	background-color: #d1d1cf;
+	text-align: left;
+	margin: 18px 10px 18px 10px;
+	padding:18px 20px 18px 20px;
+	border-radius: 15px;
+	
+}
+
+.destaque{
+	background-color: green;
+}
+
+
+#titulo{
+	font-size: 30px;
+	font-family: Helvetica;
+}
+
+#btn{
+	font-size: 20px;
+	border-radius: 4px;
+	font-family: Helvetica;
+}
+
+#loginstyle{
+	background-color: #d1d1cf;
+	padding: 10px 10px 10px 10px;
+	font-size: 20px ;
+	font-family: Helvetica;
+	text-align: center;
+	margin:35px 45px 35px 45px;
+}
